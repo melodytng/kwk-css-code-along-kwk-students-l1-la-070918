@@ -1,1 +1,24 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    /*h1 {*/
+    /*  color: yellow;*/
+    /*}*/
+    /*h2 {*/
+    /*  color: lavender;*/
+    /*}*/
+    
+    .info-section {
+      font-size: 100%;
+      color: red;
+      font-family: 'Markazi Text', serif;
+      border: 1px dotted red;
+    }
+    
+    #title-section {
+      color: purple;
+    }
+    
